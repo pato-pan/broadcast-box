@@ -1,5 +1,7 @@
 # Broadcast Box
 
+This fork from broadcast box either removes some elements from the website, or I will delete it.
+
 [![License][license-image]][license-url]
 [![Discord][discord-image]][discord-invite-url]
 
